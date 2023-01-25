@@ -1,0 +1,29 @@
+{
+    "events": [
+      {
+        "EventName": "Concert",
+        "location": "Safaricom Indoor Arena",
+        "time": "7:00 PM",
+        "capacity": "10"
+      },
+      {
+        "EventName": "Fashion Show",
+        "location": "KICC",
+        "time": "6:00 PM",
+        "capacity": "30"
+      },
+      {
+        "EventName": "Food Festival",
+        "location": "Uhuru Gardens",
+        "time": "12:00 PM",
+        "capacity": "50"
+      },
+      {
+        "EventName": "Sports Event",
+        "location": "Moi International Sports Center",
+        "time": "4:00 PM",
+        "capacity": "30"
+      }
+    ]
+  }
+  
